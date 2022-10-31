@@ -42,4 +42,8 @@ Cada tema va a contar con su carpeta ysu respectivo HTML, ademas de su archivo *
 
 ## Pruebas
 
-Mientas aprendo a prgramar en algo, me gusta ver que puedo hacer, aqui se encontraran los experimentos que haga.
+Mientas aprendo a programar en algo, me gusta ver que puedo hacer, aqui se encontraran los experimentos que haga.
+
+### Lista de Pruebas:
+
+-   **01. StrToBrainfuck**. Generar codigo (sin bucles) de Brainfuck a partir de un String.
