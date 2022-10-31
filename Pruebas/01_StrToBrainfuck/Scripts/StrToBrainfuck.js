@@ -15,7 +15,7 @@ function StrToBF(Cadena) {
             BFCode += "+";
             j++;
         }
-        BFCode += ">"; // Sugiente posicion
+        BFCode += ">"; // Suguiente posicion
     }
     for (var i = 0; i < Cadena.length; i++) {
         // Regresar a la posicion inicial

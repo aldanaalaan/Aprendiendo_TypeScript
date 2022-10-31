@@ -14,7 +14,7 @@ function StrToBF(Cadena: string): string {
 			BFCode += "+";
 			j++;
 		}
-		BFCode += ">"; // Sugiente posicion
+		BFCode += ">"; // Suguiente posicion
 	}
 	for (let i = 0; i < Cadena.length; i++) {
 		// Regresar a la posicion inicial
